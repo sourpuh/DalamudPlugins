@@ -1,0 +1,16 @@
+{
+  "Author": "sourpuh",
+  "Name": "Nameplate Status",
+  "InternalName": "NameplateStatus",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Displays statuses on enemy and player nameplates.\nForked from Nameplate Debuffs by aers, JHerig, squidmade",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/sourpuh/NamePlateDebuffs",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Displays statuses on enemy and player nameplates.",
+  "AcceptsFeedback": true
+}
