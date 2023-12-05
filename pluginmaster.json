@@ -1,11 +1,11 @@
 [
     {
         "Author": "sourpuh",
-        "Name": "NamePlate Debuffs",
+        "Name": "NamePlate Debuffs (6.5)",
         "Punchline": "Displays your debuffs on enemy nameplates.",
         "Description": "Displays your debuffs on enemy nameplates.",
         "Changelog": "Updated for 6.5",
-        "InternalName": "NamePlateDebuffs",
+        "InternalName": "SourNamePlateDebuffs",
         "AssemblyVersion": "1.0.2.0",
         "RepoUrl": "https://github.com/sourpuh/NamePlateDebuffs",
         "ApplicableVersion": "any",
